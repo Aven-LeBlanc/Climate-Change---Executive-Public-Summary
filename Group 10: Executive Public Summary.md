@@ -9,9 +9,10 @@ Stratospheric aerosol injections would cool the Earth by increasing the amount o
   <img src="FIGURE 1.png" alt="Figure 1" width="700" style="border: 1px solid darkgrey">
 </p>
 
+<p align="center">
+  
   _**Figure 1.** Schematic of a proposed mechanism to inject sulfur-containing particles, such as SO<sub>2</sub>, into the lower portion of the stratosphere, known as stratospheric aerosol injection (SAI). The stratosphere is the atmospheric layer above the troposphere, and naturally contains some sulfur particles which would be increased using SAI. Sulfur particles reflect and scatter incoming short wave radiation from the Sun. Figure created by author._
-
-  </div>
+</p>
 
 ### Conspiracy theories and their association with SAI
 This is where the chemtrails conspiracy comes back into play. Some conspiracy theorists argue that if the government is openly proposing releasing chemicals through SAI, then they may be employing this technology without the public’s knowledge to control the weather—or worse, the population. Yet, there exists no credible evidence proving that contrails, or other atmospheric modification is being used for weather or population control. Despite this, between 2008 and 2017, approximately 60% of social media discourse regarding geoengineering was conspiracy related, and 30–40% of Americans surveyed considered conspiracies about chemtrails to be somewhat true (Tingley and Wagner 2017). 
