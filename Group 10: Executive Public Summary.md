@@ -5,7 +5,7 @@ Have you ever looked up at the sky and seen a line of clouds trailing an airplan
 ### A background on stratospheric aerosol injections
 Stratospheric aerosol injections would cool the Earth by increasing the amount of solar radiation the atmosphere reflects, mimicking the cooling mechanisms of sulfur particles released by volcanic eruptions. To do this, SAI augments Earth’s natural layer of tiny sulfur-containing particles in the lower stratosphere, by injecting additional sulfur particles into it (Figure 1) (Weisenstein et al. 2022). The particles scatter and reflect incoming short-wave solar radiation back into space before it reaches Earth’s surface, thereby cooling the climate and providing time for long-term mitigation and adaptation strategies to be implemented (Weisenstein et al. 2022). Although scientific modeling of SAI encourages its cooling ability, this technology has yet to be implemented due to challenges including alteration of natural geochemical cycles and international governmental agreement (Miller 2026; Niemeier and Timmreck 2015; Hunyh and McNeill 2024). 
 
-<p align="center"> <img src="FIGURE 1.png" alt="Figure 1" width="700" style="border: 1px solid darkgrey"> </p>
+<p align="center"> ![Figure 1](images/FIGURE 1.png) </p>
 
 <div align="center">
 
