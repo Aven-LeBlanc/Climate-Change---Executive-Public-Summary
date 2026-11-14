@@ -12,6 +12,7 @@ Stratospheric aerosol injections would cool the Earth by increasing the amount o
 <p align="center">
   
   _**Figure 1.** Schematic of a proposed mechanism to inject sulfur-containing particles, such as SO<sub>2</sub>, into the lower portion of the stratosphere, known as stratospheric aerosol injection (SAI). The stratosphere is the atmospheric layer above the troposphere, and naturally contains some sulfur particles which would be increased using SAI. Sulfur particles reflect and scatter incoming short wave radiation from the Sun. Figure created by author._
+
 </p>
 
 ### Conspiracy theories and their association with SAI
